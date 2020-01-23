@@ -8,14 +8,14 @@
   A minimal, dark blue theme for <a href="https://vooids.gq/snazzy">VS Code, Sublime Text, Atom, and more (coming soon)</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=vooids.snazzy">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/vooids.snazzy.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=SnazzyTheme.snazzy-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/SnazzyTheme.snazzy-vscode.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=vooids.snazzy">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/vooids.snazzy.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=SnazzyTheme.snazzy-vscode">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/SnazzyTheme.snazzy-vscode.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=vooids.snazzy">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/vooids.snazzy.svg" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=SnazzyTheme.snazzy-vscode">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/SnazzyTheme.snazzy-vscode.svg" />
   </a>
 </p>
 
