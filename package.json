@@ -1,13 +1,13 @@
 {
   "name": "snazzy-vscode",
   "displayName": "Snazzy Theme",
-  "description": "A snazzy dark blue theme for VS Code",
-  "version": "0.0.1",
-  "publisher": "snazzytheme",
+  "description": "A snazzy looking theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "synthicy",
   "icon": "images/logo.png",
   "author": {
-    "name": "vooids",
-    "email": "voidcharmm@gmail.com"
+    "name": "synthicy",
+    "email": "n6rman@gmail.com"
   },
   "repository": {
     "type": "git",
