@@ -1,6 +1,6 @@
 
 <h1>
-  DISCONTINUED! TRY (NIGHTFALL!)[https://github.com/nghtfall]
+  DISCONTINUED! TRY [NIGHTFALL!](https://github.com/nghtfall)
   </h1>
   <p align="center">
   <img alt="Snazzy Logo" src="https://raw.githubusercontent.com/snazzytheme/snazzy/master/images/logo.png" width="100" />
